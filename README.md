@@ -93,7 +93,9 @@ E-wallet and cash were the most preferred payment methods.
 
 10. Which time of day and day of the week receive the highest customer ratings?
 
+## FINAL CONCLUSION
 
+The analysis revealed valuable insights into Walmart’s sales performance across different branches, product lines, and customer segments. Urban branches like Yangon and Mandalay showed stronger sales, with Food & Beverages and Health & Beauty leading in revenue. Sales were highest during evenings and weekends, indicating strong consumer activity after work hours. Member customers and digital payments contributed significantly to overall revenue. These insights can help Walmart refine its marketing strategies, enhance customer retention, and focus on high-performing areas to drive future growth.
 
 
 
